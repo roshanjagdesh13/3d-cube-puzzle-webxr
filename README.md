@@ -1,4 +1,4 @@
-# 🎲 3D Color Cube Puzzle
+# 3D Color Cube Puzzle
 
 **An interactive 3D puzzle game with VR/AR-ready architecture**
 
